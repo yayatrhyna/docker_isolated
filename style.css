@@ -1,0 +1,68 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+}
+
+header img {
+    width: 100px;
+    height: auto;
+}
+
+header h1 {
+    margin-top: 10px;
+}
+
+main {
+    padding: 20px;
+}
+
+.alert {
+    background-color: #ff9999;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.alert h2 {
+    color: #fff;
+    margin-bottom: 10px;
+}
+
+.alert p {
+    color: #333;
+}
+
+.alert button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px 5px;
+}
+
+.alert button:hover {
+    background-color: #0056b3;
+}
+
+.info-pembayaran {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.info-pembayaran ul {
+    list-style: none;
+    padding: 0;
+}
+
+.info-pembayaran li {
+    margin-bottom: 10px;
+}
